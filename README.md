@@ -30,9 +30,6 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                     ABOUT ME                                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding gif"/>
-</div>
 
 ### 🧑‍💻 About Me
 
