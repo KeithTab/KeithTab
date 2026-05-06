@@ -35,13 +35,12 @@
 
 ```typescript
 const KeithTab = {
-  pronouns:   "He / Him",
-  location:   "🌏 Earth",
-  passion:    "Turning coffee into clean code ☕",
+  pronouns:   "keith",
+  location:   "🌏 china/hangzhou",
+  passion:    "Travelling light！ ☕",
   currentFocus: [
-    "Building scalable web apps",
-    "Contributing to open source",
-    "Exploring AI & ML frontiers",
+    "Molecular Dynamics & forcefield",
+    "Auto Framework/workflows on MD",
   ],
   funFact:    "I debug in the shower 🚿",
   motto:      "Ship it, iterate, repeat 🔁",
