@@ -46,7 +46,7 @@ const KeithTab = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeithTab&bg_color=0d1117&color=4a90d9&line=2d7dd2&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeithTab&bg_color=ffffff&color=4a90d9&line=2d7dd2&point=0d1117&area=true&hide_border=true&border_radius=10" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
