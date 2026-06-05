@@ -43,24 +43,6 @@ const KeithTab = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeithTab&bg_color=ffffff&color=4a90d9&line=2d7dd2&point=0d1117&area=true&hide_border=true&border_radius=10" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-KeithTab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KeithTab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KeithTab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KeithTab)
-[![Twitter/X](https://img.shields.io/badge/X-@KeithTab-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KeithTab)
-
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d7dd2,50:1b3f6e,100:0a1628&height=100&section=footer" width="100%"/>
 </div>
